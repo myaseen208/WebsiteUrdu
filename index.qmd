@@ -1,5 +1,7 @@
 ---
-title: "Policy & Research Unit"
+lang: ar
+dir: rtl
+title: "اُردو"
 ---
 
-This is a website of Policy & Research Unit, Pakistan.
+اُردو

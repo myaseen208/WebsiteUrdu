@@ -1,5 +1,7 @@
 ---
-title: "Home"
+lang: ar
+dir: rtl
+title: "نثر"
 ---
 
-PRU
+نثر

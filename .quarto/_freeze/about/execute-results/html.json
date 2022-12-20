@@ -1,7 +1,7 @@
 {
-  "hash": "171c60437c2a96ccc9541451cc8a0c51",
+  "hash": "dcfc7d98cb0ba484a2a8cbe45fe03536",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nThsi sis ssis sAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\nlang: ar\ndir: rtl\ntitle: \"متعلق\"\n---\n\n\nمتعلق\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

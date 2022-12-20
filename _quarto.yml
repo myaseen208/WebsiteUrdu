@@ -1,28 +1,22 @@
+lang: ar
+dir: rtl
 project:
   type: website
   output-dir: public   # For https://prupk.com/
 #  output-dir: docs     # For https://prupk.github.io/
 
 website:
-  title: "PRU"
+  title: "اُردو"
   #logo: 
   #background: success
   search: true
   navbar:
     background: success
-    left:
-      - href: home.qmd
-        text: Home
-      - text: "Team"
+    right:
+      - text: "شاعری"
         menu:
-          - href: TeamLead.qmd
-            text: Team Lead
-          - href: RM&M&EE.qmd
-            text: RM & M&E Expert
-          - href: DataAnalyst.qmd
-            text: Data Analyst
-      - href: work.qmd
-        text: Work
+          - href: Naseer.qmd
+            text: "نصیرالدین نصیرؔ"
       - href: about.qmd
         text: About
     tools:
@@ -36,12 +30,12 @@ website:
             url:  https://bugs.com
   page-navigation: true
   page-footer: 
-    left: "Copyright 2022, PRU" 
+    left: "Copyright 2022, MYaseen208" 
     right: 
       - icon: github
-        href: https://github.com/prupk
+        href: https://github.com/MYaseen208
       - icon: twitter 
-        href: https://twitter.com/pru_pk 
+        href: https://twitter.com/MYaseen208 
 format:
   html:
     theme: cosmo

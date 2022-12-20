@@ -1,8 +1,10 @@
 ---
-title: "About"
+lang: ar
+dir: rtl
+title: "متعلق"
 ---
 
-Thsi sis ssis sAbout this site
+متعلق
 
 ```{r}
 1 + 1
