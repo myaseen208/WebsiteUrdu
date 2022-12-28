@@ -16,17 +16,12 @@ format:
 editor: visual
 ---
 
-
-
 ```{=html}
 <style>
 td, th {
 border: none!important;}
     </style>
 ```
-
-
-
 # غزل
 
 |                               |                               |
@@ -51,6 +46,8 @@ border: none!important;}
 |                               |                               |
 |                               | (**پیر نصیر الدین نصیرؔ شاہ**) |
 
-```{r echo = FALSE, out.width = '100%'}
+```{r}
+#| echo: FALSE
+#| out.width: '100%'
 knitr::include_graphics('./images/Ban_Kay_Tasveera_Gham.png')
 ```

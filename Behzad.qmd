@@ -24,7 +24,7 @@ border: none!important;}
 ```
 # غزل
 
-<font size = "2"> 
+<font size = "2">
 
 |                                                       |                                                 |
 |------------------------------------|------------------------------------|
@@ -43,7 +43,8 @@ border: none!important;}
 
 </font>
 
-
-```{r echo = FALSE, out.width = '100%'}
+```{r}
+#| echo: FALSE
+#| out.width: '100%'
 knitr::include_graphics('./images/Ae_Jazba-e-Dil.png')
 ```

@@ -4,4 +4,10 @@ dir: rtl
 title: "اُردو"
 ---
 
-اُردو
+
+
+```{r}
+#| echo: FALSE
+#| out.width: '100%'
+knitr::include_graphics('./images/Ban_Kay_Tasveera_Gham.png')
+```
